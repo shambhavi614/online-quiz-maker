@@ -41,12 +41,11 @@ Mark essay questions efficiently
             Other Features
             
 Page access restrictions based on user roles
-
+User-friendly interface for all roles
+Secure session management and permissions
 
 Support
 
 If you find this project useful, consider giving it a ⭐️ on GitHub!
 
-User-friendly interface for all roles
 
-Secure session management and permissions
