@@ -10,17 +10,22 @@ This project is ideal for developers looking to learn Django, build portfolio pr
 Key Features
 
            Admin Dashboard
+           
 View school demographics, analytics, and statistics
 Manage students (Add, Update, Delete)
 Manage lecturers (Add, Update, Delete)
 Manage academic sessions, semesters, and courses
+
            Student Features
+           
 Enroll in or drop courses
 View assessments and grades by semester
 Automatically calculated total scores, averages, points, and grades
 View personalized grade comments (Pass, Fail, or Pass with Warning)
 Access registration slips and grade results in PDF format
+
            Lecturer Features
+           
 Submit student scores for attendance, exams, assignments
 Upload course videos and documentation
 Quiz & Assessment Features
@@ -32,7 +37,9 @@ Multiple question types: Multiple Choice, True/False, and soon Essay
 Custom messages for passing or failing a quiz
 Monitor success rates by category
 Mark essay questions efficiently
+
             Other Features
+            
 Page access restrictions based on user roles
 
 
