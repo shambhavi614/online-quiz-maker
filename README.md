@@ -3,10 +3,12 @@
 
 
 SkyLearn – Feature-Rich Learning Management System
+
 SkyLearn is a modern, lightweight, and open-source Learning Management System (LMS) built with the Django web framework. It is designed for schools, colleges, and educational institutions, offering robust features for managing courses, students, lecturers, and assessments in a streamlined way.
 This project is ideal for developers looking to learn Django, build portfolio projects, or contribute to an educational tool that simplifies learning management.
 
 Key Features
+
            Admin Dashboard
 View school demographics, analytics, and statistics
 Manage students (Add, Update, Delete)
@@ -35,6 +37,7 @@ Page access restrictions based on user roles
 
 
 Support
+
 If you find this project useful, consider giving it a ⭐️ on GitHub!
 
 User-friendly interface for all roles
